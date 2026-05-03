@@ -1,0 +1,172 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+ 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pratyush+Ghosh;CSE+Student;AI+%26+Embedded+Systems+Enthusiast;Build+Smart.+Think+Deep.+Ship+Fast." />
+</p>
+
+<!-- HEADER -->
+
+
+<!-- BANNER / GIF -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+
+## 🧠 About Me
+
+```yaml
+Name     : Pratyush Ghosh
+Role     :  CSE Student
+mantra   : Design-first. Performance-always.
+
+focus:
+  - AI/ML applications for real-world problems
+  - Full-stack development with a systems mindset
+
+currently_learning:
+  - Deep Learning & Neural Networks
+  - RTOS & Embedded C/C++
+open_to:
+  - Internships
+  - Freelance projects
+  - Open Source collaborations
+```
+
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ⚡ Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+### 🎨 Design
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+### ☁️ Currently Exploring
+![RTOS](https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+### 📈 Contribution Graph:
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+<div align="center">
+  <img width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
+       alt="BANDHAN  GitHub Activity Graph"/>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+<p align="center">
+  
+
+<p align="center">
+      Pratyush GitRoll Contribution Graph <br>
+  <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
+  </a>
+</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratyush-ghoshb60a11339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gpratyush1402-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:gpratyush1402@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>Open to internships, freelance work, and meaningful open source collaborations.</i><br>
+  <i>If something I built helped you — ⭐ goes a long way.</i>
+</p>
+
+### ⭐ Show some love by starring my repositories!
+<p align="center">
+  <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
+</p>
+</div>
+<h4 align="center">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+<div align="center">
+  
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+</div>
+
+</div>## Hi there 👋
+
+<!--
+**gpratyush1402-cyber/gpratyush1402-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
