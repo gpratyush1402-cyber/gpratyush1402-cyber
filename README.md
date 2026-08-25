@@ -98,8 +98,7 @@ open_to:
 
 <div align="center">
   <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
-       alt="BANDHAN  GitHub Activity Graph"/>
+       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" />
 </div>
 
 <p align="center">
