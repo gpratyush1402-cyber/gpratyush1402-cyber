@@ -97,13 +97,7 @@ open_to:
 <!-- Decorative GIF at the top -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img 
-       width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
-  />
-</div>
+ 
 
 <!-- Skill Icons -->
 <p align="center">
