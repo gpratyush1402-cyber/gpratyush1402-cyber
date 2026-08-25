@@ -94,31 +94,38 @@ open_to:
 
 ### 📈 Contribution Graph:
 
+<!-- Decorative GIF at the top -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
+<!-- Contribution Graph -->
 <div align="center">
-  <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" /img>
+  <img 
+       width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=gpratyush1402-cyber&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
+  />
 </div>
 
+<!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,linux" >
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw" >
+<!-- Decorative GIF again -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-
-
+<!-- GitRoll Contribution Graph -->
 <p align="center">
-      Pratyush GitRoll Contribution Graph <br>
+  Pratyush GitRoll Contribution Graph <br>
   <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
-<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
+    <img 
+         width="643" 
+         height="600" 
+         alt="GitRoll Contribution Graph" 
+         src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" 
+    />
   </a>
 </p>
-    </td>
-  </tr>
-</table>
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -152,9 +159,10 @@ open_to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
 
-</div>## Hi there 👋
+
 
 <!--
+</div>## Hi there 👋
 **gpratyush1402-cyber/gpratyush1402-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
